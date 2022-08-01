@@ -16,6 +16,7 @@ Email and Mobile are unique.
 Primary ID is StringBased generated using a random function for now. 
 
 Query: {
+
         "first_name": "Nikket", //String variable - Can't be empty
         
         
@@ -54,6 +55,7 @@ Query: {
 
 For Update Query - The following can be updated.
 {
+
     "city": "Navi Mumbai",
     
     
